@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Flickr-Foundation
-//
-//  Created by Darren Leith on 09/02/2016.
-//  Copyright © 2016 Darren Leith. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

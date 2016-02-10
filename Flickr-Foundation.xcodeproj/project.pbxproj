@@ -484,6 +484,7 @@
 				01DE70061C69FCBA002998DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01DE70071C69FCBA002998DA /* Build configuration list for PBXNativeTarget "Flickr-FoundationTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				01DE70091C69FCBA002998DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01DE700A1C69FCBA002998DA /* Build configuration list for PBXNativeTarget "Flickr-FoundationUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				01DE700C1C69FCBA002998DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
