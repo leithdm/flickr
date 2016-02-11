@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0129056C1C6D184D00A2F2F5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0129056B1C6D184D00A2F2F5 /* Constants.swift */; };
 		01DE6FE01C69FCBA002998DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DE6FDF1C69FCBA002998DA /* AppDelegate.swift */; };
 		01DE6FE21C69FCBA002998DA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DE6FE11C69FCBA002998DA /* ViewController.swift */; };
 		01DE6FE51C69FCBA002998DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01DE6FE31C69FCBA002998DA /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0129056B1C6D184D00A2F2F5 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		01DE6FDC1C69FCBA002998DA /* Flickr-Foundation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flickr-Foundation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01DE6FDF1C69FCBA002998DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01DE6FE11C69FCBA002998DA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				01DE6FDF1C69FCBA002998DA /* AppDelegate.swift */,
 				01DE6FE11C69FCBA002998DA /* ViewController.swift */,
+				0129056B1C6D184D00A2F2F5 /* Constants.swift */,
 				01DE6FE31C69FCBA002998DA /* Main.storyboard */,
 				01DE6FE61C69FCBA002998DA /* Assets.xcassets */,
 				01DE6FE81C69FCBA002998DA /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				01DE6FE21C69FCBA002998DA /* ViewController.swift in Sources */,
 				01DE6FE01C69FCBA002998DA /* AppDelegate.swift in Sources */,
+				0129056C1C6D184D00A2F2F5 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
